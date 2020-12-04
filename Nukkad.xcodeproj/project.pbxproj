@@ -11,6 +11,7 @@
 		4AB88C5F2579E90000DE2336 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB88C5E2579E90000DE2336 /* ContentView.swift */; };
 		4AB88C612579E90200DE2336 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AB88C602579E90200DE2336 /* Assets.xcassets */; };
 		4AB88C642579E90200DE2336 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AB88C632579E90200DE2336 /* Preview Assets.xcassets */; };
+		4AB88C6D2579EDE800DE2336 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB88C6C2579EDE800DE2336 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		4AB88C602579E90200DE2336 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AB88C632579E90200DE2336 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4AB88C652579E90200DE2336 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AB88C6C2579EDE800DE2336 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4AB88C602579E90200DE2336 /* Assets.xcassets */,
 				4AB88C652579E90200DE2336 /* Info.plist */,
 				4AB88C622579E90200DE2336 /* Preview Content */,
+				4AB88C6C2579EDE800DE2336 /* Launch Screen.storyboard */,
 			);
 			path = Nukkad;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB88C6D2579EDE800DE2336 /* Launch Screen.storyboard in Resources */,
 				4AB88C642579E90200DE2336 /* Preview Assets.xcassets in Resources */,
 				4AB88C612579E90200DE2336 /* Assets.xcassets in Resources */,
 			);
